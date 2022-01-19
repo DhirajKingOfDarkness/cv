@@ -1,0 +1,23 @@
+#documentation 
+w3schools
+
+#documentation
+MDN web docs
+developer.mozilla.org
+
+#emmet documentation
+docs.emmet.io/cheat-sheet
+
+#10 min read on unicode
+www.joelonsoftware.com
+the absolute minimum every software developer absolutely,
+positively must know about unicode and character sets
+
+#to search anything anywhere
+ ctrl + f
+
+#img tag alternative attribute helps in improving seo too rarther 
+than displaying text when img not loaded
+
+#wiki game
+gives start and end goal hyperlinks ,and you have to reach from starting hyperlink to end goal hyperlink
